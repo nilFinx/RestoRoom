@@ -21,7 +21,7 @@
 
 ## What is this?
 
-Rec Room is shutting down on **June 1st, 2026**. RestoRoom is an open-source effort to reverse engineer and reimplement the Rec Room server infrastructure so the community can keep playing after the lights go out.
+Rec Room has shut down on **June 1st, 2026**. RestoRoom is an open-source effort to reverse engineer and reimplement the Rec Room server infrastructure so the community can keep playing after the lights go out.
 
 This is a preservation project, built by fans, for fans.
 
@@ -60,8 +60,6 @@ Our approach:
 
 We need all kinds of help — reverse engineers, backend devs, and people who can document findings.
 
-**Before June 1st 2026 especially**, the most valuable thing anyone can do is **capture traffic** while the official servers are still up.
-
 ### Getting started
 
 1. Fork the repo
@@ -69,13 +67,6 @@ We need all kinds of help — reverse engineers, backend devs, and people who ca
 3. Read [CONTRIBUTING.md](CONTRIBUTING.md)
 4. Join the discussion in [Discussions](../../discussions)
 
-### What we need most right now
-
-- Wireshark captures of Rec Room network traffic
-- Documentation of REST API endpoints
-- Anyone with experience reversing Unity/Photon games
-
----
 
 ## Legal
 
