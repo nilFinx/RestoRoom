@@ -50,7 +50,7 @@ If you have experience with Unity games, dnSpy, or Ghidra:
 
 Once we have enough protocol documentation, we'll start implementing backend services. Stack is TBD but likely:
 
-- REST API server (Node.js / Python / Go — open to discussion)
+- REST API server (Typescript using the Hono framework)
 - Photon relay / replacement
 - Auth / account system
 
