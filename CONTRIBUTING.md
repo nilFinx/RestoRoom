@@ -11,7 +11,7 @@ Check the [issues](../../issues) tab first. Issues are labelled so you can find 
 - `research` — traffic capture, protocol documentation
 - `backend` — server implementation work
 - `tooling` — scripts, utilities, dev tooling
-- `docs` — documentation, wikis, guides
+- `documentation` — documentation, wikis, guides
 - `good first issue` — easy stuff to get started
 
 If you have an idea not in the issues, open one and discuss it before building.
@@ -25,6 +25,7 @@ If you have an idea not in the issues, open one and discuss it before building.
 This is the highest priority before June 1st 2026. Once the servers go dark, we lose our reference.
 
 **What to do:**
+
 1. Install [Wireshark](https://www.wireshark.org/)
 2. Play Rec Room normally and capture your session
 3. Filter by `rec.net` or Photon-related hosts
